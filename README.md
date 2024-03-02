@@ -15,18 +15,28 @@
 # 📝Projects
 
 
-## 1. 🛫 21VIP
+## 1. 🏬 백화점 고객관리 프로그램(CRM)
 
-> ## 백화점 고객관리 프로그램(CRM) 
 >
 > - 개발기간 : 2023.11.27 ~ 12.21
 > - 핵심 역할 : 팀원, Ajax를 이용한 비동기적 검색 및 정렬, CoolSMS 메시지 API 구현
-> - Language : Java 
-> - Front-end : HTML, CSS, JavaScript
+> - Back-end : Java, SpringBoot, AWS, Apache Tomcat
+> - Front-end : HTML, CSS, JavaScript, Jquery, BootStrap
 >> [프로젝트 상세 설명](https://github.com/alsrl2275/SemiProject_21vipCRM)
 
 
 <br />
+
+## 2. 🎉 소모임 사이트
+
+>
+> - 개발기간 : 2022.06.28-07.06
+> - 핵심 역할 : 팀원, Generative model를 이용한 신발 스타일링 기능 구현
+> - Back-end : Java, SpringBoot, 
+> - Front-end : React.js, JavaScript, HTML
+>> [프로젝트 상세 설명](https://github.com/alsrl2275/group-FinalProject)
+
+
 
 
 
