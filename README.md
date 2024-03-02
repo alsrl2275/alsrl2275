@@ -19,7 +19,7 @@
 
 >
 > - 개발기간 : 2023.11.27 ~ 12.21
-> - 핵심 역할 : 팀원, Ajax를 이용한 비동기적 검색 및 정렬, CoolSMS 메시지 API 구현
+> - 핵심 역할 : 팀원 - Ajax를 이용한 비동기적 검색 및 정렬, CoolSMS 메시지 API 구현
 > - Back-end : Java, SpringBoot, AWS, Apache Tomcat
 > - Front-end : HTML, CSS, JavaScript, Jquery, BootStrap
 >> [프로젝트 상세 설명](https://github.com/alsrl2275/SemiProject_21vipCRM)
@@ -30,10 +30,11 @@
 ## 2. 🎉 소모임 사이트
 
 >
-> - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀원, Generative model를 이용한 신발 스타일링 기능 구현
-> - Back-end : Java, SpringBoot, 
-> - Front-end : React.js, JavaScript, HTML
+> - 개발기간 : 2024.01.22 ~ 02.20
+> - 핵심 역할 : 팀원 - 모임 개설 및 일정관리 페이지 구현, 결제, 카카오 맵, 캘린더, 주소 API 구현
+> - Back-end : Java, SpringBoot, Node.js, AWS, Apache Tomcat  
+> - Front-end : React.js, JavaScript, HTML, CSS
+> - Skills : KakaoMap API, PostOne API, FullCalendar API, Daum API, WebSocket, axios
 >> [프로젝트 상세 설명](https://github.com/alsrl2275/group-FinalProject)
 
 
