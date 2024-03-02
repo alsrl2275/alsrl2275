@@ -21,7 +21,12 @@
 >
 > - 개발기간 : 2023.11.27 ~ 12.21
 > - 핵심 역할 : 팀원, Ajax를 이용한 비동기적 검색 및 정렬, CoolSMS 메시지 API 구현
->
+> - Language : Java 
+> - Front-end : HTML, CSS, JavaScript
+>> [프로젝트 상세 설명](https://github.com/alsrl2275/SemiProject_21vipCRM)
+
+
+<br />
 
 
 
