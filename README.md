@@ -31,7 +31,6 @@
 > - 핵심 역할 : 팀원 - 모임 개설 및 일정관리 페이지 구현, 결제, 카카오 맵, 캘린더, 주소 API 구현
 > - Back-end : Java, SpringBoot, Node.js, AWS, Apache Tomcat  
 > - Front-end : React.js, JavaScript, HTML, CSS
-> - Skills : KakaoMap API, PostOne API, FullCalendar API, Daum API, WebSocket, axios
 >> [프로젝트 상세 설명](https://github.com/alsrl2275/group-FinalProject)
 
 
