@@ -10,7 +10,10 @@
 <br />
 
 ## 💻 Git stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrl2275&show_icons=true&theme=cobalt)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsrl2275&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrl2275&show_icons=true&theme=cobalt&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsrl2275&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
+
+
 
 
 <br/>
