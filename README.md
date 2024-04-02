@@ -13,7 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrl2275&show_icons=true&theme=cobalt&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsrl2275&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsrl2275&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br/>
